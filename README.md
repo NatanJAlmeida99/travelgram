@@ -34,5 +34,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver uma página de receitas para praticar o nosso conhecimento com o HTML e CSS!
+Nesse projeto iremos desenvolver uma página de viagens para praticar o nosso conhecimento com FlexBox!
 
