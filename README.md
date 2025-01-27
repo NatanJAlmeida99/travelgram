@@ -1,26 +1,38 @@
-# travelgram
+<p align="center">
+  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
+</p>
 
-![preview](./assets/preview.png)
+<p align="center">
+Projeto de uma página de um perfil de viagens desenvolvido durante as aulas de HTML e CSS na Rocketseat.
+</p>
 
-> Formação Full-Stack: Avançando no HTML e CSS (desafio prático)
-
-O projeto é uma simples página de um perfil de viagens
-
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
 [🔗 Clique aqui para acessar](https://natanjalmeida99.github.io/travelgram/)
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+</p>
 
-## 🛠️ Tecnologias
+<br>
+
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+</p>
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
-- CSS (FlexBox)
-- Git e Github
+- CSS
 
+## Projeto
 
-## 💚 Contato
+Nesse projeto iremos desenvolver uma página de receitas para praticar o nosso conhecimento com o HTML e CSS!
 
-natanalmeida158@hotmail.com
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
