@@ -1,13 +1,13 @@
 # travelgram
 
-<!-- ![preview](./.github/preview.png) -->
+![preview](./assets/preview.png)
 
 > Formação Full-Stack: Avançando no HTML e CSS (desafio prático)
 
 O projeto é uma simples página de um perfil de viagens
 
 
-<!-- [🔗 Clique aqui para acessar](https://fel1324.github.io/LocalTuristico/) -->
+[🔗 Clique aqui para acessar](https://natanjalmeida99.github.io/travelgram/)
 
 
 ## 🛠️ Tecnologias
